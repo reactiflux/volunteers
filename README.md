@@ -14,6 +14,7 @@ Here's a list of people who have expressed interested in helping out:
 - [@benigeri](https://github.com/benigeri)
 - [@edge (synchronous)](https://github.com/edge)
 - [@vramana](https://github.com/vramana)
+- [@vcarl](https://github.com/vcarl)
 
 
 We welcome you to join the ranks. If you're willing to devote a non-trivial amount of time to the above efforts, please make a pull request and add yourself to the list. :)
