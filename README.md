@@ -19,6 +19,8 @@ Here's a list of people who have expressed interested in helping out:
 - [@robotmayo](https://github.com/robotmayo)
 - [@sotojuan](https://github.com/sotojuan)
 - [@mxstbr](https://github.com/mxstbr)
+- [@zackify (zach)](https://github.com/zackify)
+
 
 We welcome you to join the ranks. If you're willing to devote a non-trivial amount of time to the above efforts, please make a pull request and add yourself to the list. :)
 
