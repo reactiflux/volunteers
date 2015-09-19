@@ -20,3 +20,7 @@ Here's a list of people who have expressed interested in helping out:
 - [@sotojuan](https://github.com/sotojuan)
 
 We welcome you to join the ranks. If you're willing to devote a non-trivial amount of time to the above efforts, please make a pull request and add yourself to the list. :)
+
+<p align="center">
+  <img src="http://cdn.meme.am/instances2/500x/1961755.jpg"/>
+</p>
