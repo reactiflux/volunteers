@@ -21,6 +21,7 @@ Here's a list of people who have expressed interested in helping out:
 - [@mxstbr](https://github.com/mxstbr)
 - [@zackify (zach)](https://github.com/zackify)
 - [@tappleby](https://github.com/tappleby)
+- [@germ13](https://github.com/germ13)
 
 
 We welcome you to join the ranks. If you're willing to devote a non-trivial amount of time to the above efforts, please make a pull request and add yourself to the list. :)
