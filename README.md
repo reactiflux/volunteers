@@ -5,24 +5,25 @@
 1. Our landing page is not stable. It goes down almost daily. And doesn't work with every email addresses. Let's put together a fresh design and make joining Reactiflux possible every minute of the day. ([join the discussion](https://github.com/reactiflux/www/issues/1))
 2. We talk a lot, and Slack has a 10,000 message limit for it's archive. Unless we start paying $100K / year, the issue isn't going away anytime soon. We've talked about building our own searchable archive for months. It shouldn be very difficult with Slack's API. ([join the discussion](https://github.com/reactiflux/www/issues/2))
 
-So let's work together and build some nice React apps to solve our problems. 
+We've thought about migrating to other products ([join the discussion](https://github.com/reactiflux/volunteers/issues/17)), and believe Slack is the best despite these shortcomings. 
 
-Here's a list of people who have expressed interested in helping out: 
+So let's work together and build some nice React apps to solve our problems!
 
 ## The troops 
 
+Here's a list of people who have expressed interested in helping out: 
+
+- [@zackify (zach)](https://github.com/zackify)
+- [@tappleby](https://github.com/tappleby)
+- [@vcarl](https://github.com/vcarl)
 - [@benigeri](https://github.com/benigeri)
 - [@edge (synchronous)](https://github.com/edge)
 - [@vramana](https://github.com/vramana)
 - [@olivier](https://github.com/olivierrr)
-- [@vcarl](https://github.com/vcarl)
 - [@robotmayo](https://github.com/robotmayo)
 - [@sotojuan](https://github.com/sotojuan)
 - [@mxstbr](https://github.com/mxstbr)
-- [@zackify (zach)](https://github.com/zackify)
-- [@tappleby](https://github.com/tappleby)
 - [@germ13](https://github.com/germ13)
-
 
 We welcome you to join the ranks. If you're willing to devote a non-trivial amount of time to the above efforts, please make a pull request and add yourself to the list. :)
 
