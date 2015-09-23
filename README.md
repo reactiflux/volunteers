@@ -25,6 +25,7 @@ Here's a list of people who have expressed interested in helping out:
 - [@conorhastings](https://github.com/conorhastings)
 - [@pburtchaell](https://github.com/pburtchaell)
 - [@knowbody](https://github.com/knowbody)
+- [@zperrault](https://github.com/zperrault)
 
 
 We welcome you to join the ranks. If you're willing to devote a non-trivial amount of time to the above efforts, please make a pull request and add yourself to the list. :)
