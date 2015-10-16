@@ -29,6 +29,7 @@ Here's a list of people who have expressed interested in helping out:
 - [@hemanth](https://github.com/hemanth)
 - [@samkelleher](https://github.com/samkelleher)
 - [@tmbtech](https://github.com/tmbtech)
+- [@sotayamashita](https://github.com/sotayamashita/)
 
 
 We welcome you to join the ranks. If you're willing to devote a non-trivial amount of time to the above efforts, please make a pull request and add yourself to the list. :)
